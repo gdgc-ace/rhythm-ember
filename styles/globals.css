@@ -116,7 +116,7 @@ a {
 
 .section1 {
   /* background-color: #E2CEA2; */
-  background: url(../public/assets/DashakBG.png), #E2CEA2;
+  background: url(./assets/DashakBG.png), #E2CEA2;
   mix-blend-mode: multiply;
 }
 
@@ -127,14 +127,14 @@ a {
 }
 
 .rewind1 {
-  background: url(../public/assets/Rewind1.png), #E2CEA2;
+  background: url(./assets/Rewind1.png), #E2CEA2;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .rewind2 {
-  background: url(../public/assets/Rewind2.png), #E2CEA2;
+  background: url(./assets/Rewind2.png), #E2CEA2;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
